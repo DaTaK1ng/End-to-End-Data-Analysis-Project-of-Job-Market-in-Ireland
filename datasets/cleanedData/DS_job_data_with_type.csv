@@ -1,0 +1,76 @@
+ID,company,job_title,job_location,company_type
+1,AXA Group,Data Scientist I,"Dublin, County Dublin",Insurance
+2,Reperio Human Capital Ltd,Data Scientist,"Cork, County Cork",Recruitment
+3,AON,Data Scientist,"Dublin, County Dublin",Insurance
+4,AXA Group,Senior Data Scientist,"Dublin, County Dublin",Insurance
+5,Reperio Human Capital Ltd,Senior Data Scientist,"Galway, Republic of Ireland",Recruitment
+6,Reperio Human Capital Ltd,Senior Data Scientist,"Galway, Republic of Ireland",Recruitment
+7,Eaton Corporation,Data Scientist,"County Dublin, Dublin",Technology
+8,McAfee Ireland Ltd,Data Scientist - LLMs & Generative AI,"Cork, County Cork",Technology
+9,Microsoft,Principal Data Scientist - Microsoft 365 Copilot,"Moneygall, County Offaly",Technology
+10,Mastercard,"Director, Data Scientist","County Dublin, Dublin",Technology
+11,Red Hat,Data Scientist,"Waterford, County Waterford",Technology
+12,Paypal,Snr Data Scientist - Fraud Automation Team,"County Dublin, Dublin",Technology
+13,Paypal,Data Scientist - Dublin,"County Dublin, Dublin",Technology
+14,Liberty IT,Data Scientist,"Galway, Republic of Ireland",Technology
+15,Liberty Information Technology,Data Scientist,"Galway, Republic of Ireland",Technology
+16,Paypal,Data Scientist - CGS Event,"County Dublin, Dublin",Technology
+17,Mastercard,Lead Data Scientist,"County Dublin, Dublin",Technology
+18,Experian Group,Lead Data Scientist - Model Risk Management,"County Dublin, Dublin",Data Analytics
+19,AXA Group,Analytics Translator,"Dublin, County Dublin",Insurance
+20,Mastercard,Senior Data Scientist,"County Dublin, Dublin",Technology
+21,Paypal,Senior Data Scientist - Dublin,"County Dublin, Dublin",Technology
+22,CVS Health Ireland,Machine Learning Engineer,"Galway, Republic of Ireland",Healthcare
+23,AXA Group,Scrum Master,"Dublin, County Dublin",Insurance
+24,Paypal,"Manager, Data Science - Dublin","County Dublin, Dublin",Technology
+25,Mastercard,Lead AI Engineer,"County Dublin, Dublin",Technology
+26,Microsoft,Applied Scientist - LLM,"County Dublin, Dublin",Technology
+27,Experian Group,Machine Learning Engineer - GenAI,"County Dublin, Dublin",Data Analytics
+28,Mastercard,"Product Manager, Payments AI Solutions","County Dublin, Dublin",Technology
+29,Mastercard,"Product Manager, Payments AI Solutions","County Dublin, Dublin",Technology
+30,Cancer Trials Ireland CLG,Statistical Programmer,"Dublin, County Dublin",Healthcare Research
+31,Northern Trust,Data Analyst - AML/KYC-Limerick,"Limerick, County Limerick",Financial Services
+32,HIQA (Health Information and Quality Authority),Healthcare Data Analyst,Republic of Ireland,Government
+33,Cpl Resources,"Senior/Principal Data Analyst - Hybrid, Financial Services, Galway","Galway, Republic of Ireland",Recruitment
+34,J.P MORGAN S.E Dublin Branch,"Workplace Solutions - Data Analyst, Vice President","Dublin, County Dublin",Bank
+35,Total Talent,"Freight Invoice & Data Analyst (SAP, Excel, Power BI)","Dublin, County Dublin",Recruitment
+36,Tasman Global Healthcare Ireland Limited dba Nordic Global,Data Analyst - Clarity,"Dublin, County Dublin",Healthcare
+37,Musgrave Limited - Group,Media Insight Analyst,"Dublin, County Dublin",Retail
+38,UniJobs,Data Analyst,"Tullamore, County Offaly",Recruitment
+39,Strive Recruitment,Data Analyst,"Galway, Republic of Ireland",Recruitment
+40,Aviva (EG),Pricing Machine Learning Engineer,"Dublin, County Dublin",Insurance
+41,Royal College of Surgeons (RCSI),Clinical Bioinformatician,"Beaumont, County Dublin",University
+42,AXA Group,Market Pricing Analyst,"Dublin, County Dublin",Insurance
+43,State Street International (Ireland) Ltd,Information Protection Reporting and Analytics Analyst,"Kilkenny, County Kilkenny",Financial Services
+44,UniJobs,CRM Development Analyst,"Dublin, County Dublin",Recruitment
+45,Reperio Human Capital Ltd,Junior Data Analyst,"Galway, Republic of Ireland",Recruitment
+46,Total Talent,"Freight Invoice & Data Analyst (SAP, Excel, Power BI)","Dublin, County Dublin",Recruitment
+47,@Recruit IT Limited,Data Analyst - Azure,"Dublin, County Dublin",Recruitment
+48,UniJobs,Data Analyst - Limerick,"Limerick, County Limerick",Recruitment
+49,Reperio Human Capital Ltd,BI Analyst,"Galway, Republic of Ireland",Recruitment
+50,Cpl Resources,Senior Administration Assistant | Dublin City Centre based | Hybrid model | €40k,"Dublin, County Dublin",Recruitment
+51,Deloitte Ireland LLP,Data Analytics - Senior Consultant,"Dublin, County Dublin",Consulting
+52,Reperio Human Capital Ltd,Senior Data Analyst,"Limerick, County Limerick",Recruitment
+53,Musgrave Limited - Group,Senior Data Analyst,"Dublin, County Dublin",Retail
+54,Cardinal Health Group,Senior Data Analyst - Supply Chain Planning,Republic of Ireland,Healthcare
+55,Reperio Human Capital Ltd,Senior Data Analyst,"Galway, Republic of Ireland",Recruitment
+56,UNUM Ireland.,Senior Data Analyst,"Carlow, County Carlow",Insurance
+57,Musgrave Limited - Group,Senior Commercial Data Analyst,"Dublin, County Dublin",Retail
+58,Reperio Human Capital Ltd,Senior Data Analyst,"Cork, County Cork",Recruitment
+59,Reperio Human Capital Ltd,Senior Machine Learning Engineer,"Dublin, County Dublin",Recruitment
+60,Mars Capital,Data Analyst,"County Dublin, Dublin",Bank
+61,Mars Capital,Data Analyst FTC - 6 Months,"County Dublin, Dublin",Bank
+62,Microsoft,AI Business Process Digital Solution Area Specialist,"County Dublin, Dublin",Technology
+63,Munster Rugby,Vacancy | Academy & Pathway Performance Analyst,"Castletroy, Limerick",Sports
+64,IQVIA,Senior Biostatistician – Oncology (FSP -Permanent Homebased),"County Dublin, Dublin",Healthcare
+65,Sumitomo Banking Corp,Senior Data Analyst,"Tralee, County Kerry",Bank
+66,Paypal,Senior Data Analyst,"County Dublin, Dublin",Technology
+67,IQVIA,Snr Data Team Lead,"County Dublin, Dublin",Healthcare
+68,IQVIA,Senior Clinical Data Team Lead (Senior DTL) - FSP,"County Dublin, Dublin",Healthcare
+69,IQVIA,Senior Statistical Programmer (Remote - Permanent Homebased),"County Dublin, Dublin",Healthcare
+70,Nory,Machine Learning Engineer,"County Dublin, Dublin",Technology
+71,Red Hat,RHTAS Senior Software Engineer - Model Signing and Attestations - (Ireland),"Cork, County Cork",Technology
+72,Red Hat,RHTAS Senior Software Engineer - Model Signing and Attestations - (Ireland),"Waterford, County Waterford",Technology
+73,Red Hat,RHTAS Senior Software Engineer - Model Signing and Attestations - (Ireland),"County Dublin, Dublin",Technology
+74,Etsy.com,Senior Machine Learning Engineer II,"County Dublin, Dublin",Technology
+75,Red Hat,RHOAI Senior Software Engineer - Model Training/OpenShift AI,"Waterford, County Waterford",Technology

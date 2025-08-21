@@ -1,0 +1,41 @@
+Skill,Frequency
+R,75
+Python,42
+Machine Learning,36
+SQL,33
+Power BI,31
+Statistics,27
+Azure,22
+Tableau,17
+Databricks,14
+AWS,11
+TensorFlow,9
+SAS,8
+Scikit-learn,7
+Spark,7
+PyTorch,7
+Regression,7
+Classification,6
+Deep Learning,5
+MLOps,5
+XGBoost,4
+Hypothesis Testing,4
+NLP,4
+Docker,4
+Feature Engineering,3
+Clustering,3
+Pandas,3
+Reinforcement Learning,2
+Google Cloud,2
+Hadoop,2
+Kubeflow,2
+A/B Testing,2
+Matlab,1
+Unsupervised Learning,1
+Transformer,1
+SPSS,1
+OpenAI,1
+MLflow,1
+SageMaker,1
+Jupyter,1
+LightGBM,1

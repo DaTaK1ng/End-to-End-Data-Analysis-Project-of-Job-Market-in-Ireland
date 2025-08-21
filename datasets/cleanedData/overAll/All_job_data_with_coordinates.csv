@@ -1,0 +1,221 @@
+ID,company type,job_title,job_location,job_type,latitude,longitude,company type
+1,Financial Services,Data Analyst - AML/KYC-Limerick,"Limerick, County Limerick",DA,52.6638,-8.6267,Financial Services
+2,Recruitment,Data Analyst,"Galway, Republic of Ireland",DA,53.2707,-9.0568,Recruitment
+3,Recruitment,"Freight Invoice & Data Analyst (SAP, Excel, Power BI)","Dublin, County Dublin",DA,53.3498,-6.2603,Recruitment
+4,Recruitment,Data Analyst,"Tullamore, County Offaly",DA,53.274,-7.4896,Recruitment
+5,Bank,"Workplace Solutions - Data Analyst, Vice President","Dublin, County Dublin",DA,53.3498,-6.2603,Bank
+6,Healthcare,Data Analyst - Clarity,"Dublin, County Dublin",DA,53.3498,-6.2603,Healthcare
+7,Recruitment,Data Analyst - Azure,"Dublin, County Dublin",DA,53.3498,-6.2603,Recruitment
+8,Recruitment,"Freight Invoice & Data Analyst (SAP, Excel, Power BI)","Dublin, County Dublin",DA,53.3498,-6.2603,Recruitment
+9,Recruitment,Data Analyst - Limerick,"Limerick, County Limerick",DA,52.6638,-8.6267,Recruitment
+10,Recruitment,"Senior/Principal Data Analyst - Hybrid, Financial Services, Galway","Galway, Republic of Ireland",DA,53.2707,-9.0568,Recruitment
+11,Government,Healthcare Data Analyst,Republic of Ireland,DA,53.1424,-7.6921,Government
+12,Recruitment,Junior Data Analyst,"Galway, Republic of Ireland",DA,53.2707,-9.0568,Recruitment
+13,Financial Services,Information Protection Reporting and Analytics Analyst,"Kilkenny, County Kilkenny",DA,52.6541,-7.2448,Financial Services
+14,Financial Services,Analyst - Data Management,"Cork, County Cork",DA,51.8985,-8.4756,Financial Services
+15,Recruitment,Senior Data Analyst,"Limerick, County Limerick",DA,52.6638,-8.6267,Recruitment
+16,Recruitment,Senior Data Analyst,"Cork, County Cork",DA,51.8985,-8.4756,Recruitment
+17,Recruitment,Senior Data Analyst,"Galway, Republic of Ireland",DA,53.2707,-9.0568,Recruitment
+18,Retail,Senior Data Analyst,"Dublin, County Dublin",DA,53.3498,-6.2603,Retail
+19,Retail,Senior Commercial Data Analyst,"Dublin, County Dublin",DA,53.3498,-6.2603,Retail
+20,Healthcare,Senior Data Analyst - Supply Chain Planning,Republic of Ireland,DA,53.1424,-7.6921,Healthcare
+21,Insurance,Senior Data Analyst,"Carlow, County Carlow",DA,52.8407,-6.9269,Insurance
+22,Insurance,Data Scientist I,"Dublin, County Dublin",DA,53.3498,-6.2603,Insurance
+23,Retail,Media Insight Analyst,"Dublin, County Dublin",DA,53.3498,-6.2603,Retail
+24,Insurance,Market Pricing Analyst,"Dublin, County Dublin",DA,53.3498,-6.2603,Insurance
+25,Insurance,Data Scientist,"Dublin, County Dublin",DA,53.3498,-6.2603,Insurance
+26,Recruitment,Data Scientist,"Cork, County Cork",DA,51.8985,-8.4756,Recruitment
+27,Recruitment,BI Analyst,"Galway, Republic of Ireland",DA,53.2707,-9.0568,Recruitment
+28,Recruitment,BI Developer,"Dublin, County Dublin",DA,53.3498,-6.2603,Recruitment
+29,Recruitment,SAP Data Migration Consultant,"Dublin, County Dublin",DA,53.3498,-6.2603,Recruitment
+30,Recruitment,BI Developer,"Cork, County Cork",DA,51.8985,-8.4756,Recruitment
+31,Financial Services,"Associate Consultant, Data Management - Total Portfolio Solutions (FOS) Graduate Opportunity","Limerick, County Limerick",DA,52.6638,-8.6267,Financial Services
+32,Bank,Data Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Bank
+33,Bank,Data Analyst FTC - 6 Months,"County Dublin, Dublin",DA,53.3498,-6.2603,Bank
+34,Consulting,Data Analytics - Senior Consultant,"Dublin, County Dublin",DA,53.3498,-6.2603,Consulting
+35,Insurance,Senior Data Scientist,"Dublin, County Dublin",DA,53.3498,-6.2603,Insurance
+36,Recruitment,Senior Data Scientist,"Galway, Republic of Ireland",DA,53.2707,-9.0568,Recruitment
+37,Recruitment,Senior Data Scientist,"Galway, Republic of Ireland",DA,53.2707,-9.0568,Recruitment
+38,Recruitment,Data and Systems Analyst,"Galway, Republic of Ireland",DA,53.2707,-9.0568,Recruitment
+39,Recruitment,Qualified Actuary-Insurance-central Dublin-hybrid,"Dublin, County Dublin",DA,53.3498,-6.2603,Recruitment
+40,Consulting,Data Anlayst,"Dublin, County Dublin",DA,53.3498,-6.2603,Consulting
+41,Bank,Senior Data Analyst,"Tralee, County Kerry",DA,52.2713,-9.7016,Bank
+42,Technology,Senior Data Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+43,Technology,Data Scientist,"Galway, Republic of Ireland",DA,53.2707,-9.0568,Technology
+44,Technology,"Director, Data Scientist","County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+45,Technology,Data Scientist,"Galway, Republic of Ireland",DA,53.2707,-9.0568,Technology
+46,Technology,Data Scientist,"Waterford, County Waterford",DA,52.2593,-7.1101,Technology
+47,Technology,Data Scientist - LLMs & Generative AI,"Cork, County Cork",DA,51.8985,-8.4756,Technology
+48,Technology,Data Scientist,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+49,Technology,Data Scientist - Dublin,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+50,Technology,Data Scientist - CGS Event,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+51,Technology,Snr Data Scientist - Fraud Automation Team,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+52,Technology,Principal Data Scientist - Microsoft 365 Copilot,"Moneygall, County Offaly",DA,53.3498,-6.2603,Technology
+53,Telecommunications,Senior Manager Techical Project Management,"Limerick, County Limerick",DA,52.6638,-8.6267,Telecommunications
+54,Data Analytics,Lead Data Scientist - Model Risk Management,"County Dublin, Dublin",DA,53.3498,-6.2603,Data Analytics
+55,Technology,Lead Data Scientist,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+56,Healthcare,Senior Biostatistician 閳?Oncology (FSP -Permanent Homebased),"County Dublin, Dublin",DA,53.3498,-6.2603,Healthcare
+57,Technology,Senior Data Scientist,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+58,Technology,Senior Data Scientist - Dublin,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+59,Healthcare,"Principal Biostatistician , FSP - Permanent Homebased (m/w/d)","County Dublin, Dublin",DA,53.3498,-6.2603,Healthcare
+60,Technology,"Manager, Data Science - Dublin","County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+61,Technology,Product Manager - Workforce Employee Mgt,"Moneygall, County Offaly",DA,53.3498,-6.2603,Technology
+62,Fintech,Insurance Consultant (Ireland),"County Dublin, Dublin",DA,53.3498,-6.2603,Fintech
+63,Technology,Detection & Enforcement Rules Analyst,"Moneygall, County Offaly",DA,53.3498,-6.2603,Technology
+64,Technology,Detection & Enforcement Rules Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+65,Technology,Senior Infrastructure Specialist,"Moneygall, County Offaly",DA,53.3498,-6.2603,Technology
+66,Technology,Chief Information Security Officer (CISO) & Practice Lead,"Boyle, County Roscommon",DA,53.6331,-8.1869,Technology
+67,Fintech,Data Analytics Manager,"County Dublin, Dublin",DA,53.3498,-6.2603,Fintech
+68,Recruitment,CRM Development Analyst,"Dublin, County Dublin",DA,53.3498,-6.2603,Recruitment
+69,Healthcare Research,Statistical Programmer,"Dublin, County Dublin",DA,53.3498,-6.2603,Healthcare Research
+70,Healthcare,Financial Analyst II - Project Finance,"Dublin, County Dublin",DA,53.3498,-6.2603,Healthcare
+71,Pharmaceutical,Delivery Analyst,"Dublin, County Dublin",DA,53.3498,-6.2603,Pharmaceutical
+72,Pharmaceutical,Staff IT Operations Reporting Specialist,"Limerick, County Limerick",DA,52.6638,-8.6267,Pharmaceutical
+73,Healthcare,Financial Analyst II - Business Partnering,"Dublin, County Dublin",DA,53.3498,-6.2603,Healthcare
+74,Financial Services,Insider Threat Intelligence Analyst,"Limerick, County Limerick",DA,52.6638,-8.6267,Financial Services
+75,Healthcare,Application Analyst II-Resolute Professional Billing & Claims,"Dublin, County Dublin",DA,53.3498,-6.2603,Healthcare
+76,Healthcare,Application Analyst I - Epic Beaker,"Dublin, County Dublin",DA,53.3498,-6.2603,Healthcare
+77,Pharmaceutical,Laboratory Operations Analyst (QC Analyst),"Dublin, County Dublin",DA,53.3498,-6.2603,Pharmaceutical
+78,Workforce Solutions,Operations Analyst - Trade,"Dublin, County Dublin",DA,53.3498,-6.2603,Workforce Solutions
+79,Workforce Solutions,Operations Analyst,"Dublin, County Dublin",DA,53.3498,-6.2603,Workforce Solutions
+80,Telecommunications,Sustainability Data Harmonisation Expert,"Cork, County Cork",DA,51.8985,-8.4756,Telecommunications
+81,University,Administrative Support & Data Entry - Executive Officer - 0.5 FTE,"Dublin, County Dublin",DA,53.3498,-6.2603,University
+82,Insurance,Risk & Pricing Analyst,"Dublin, County Dublin",DA,53.3498,-6.2603,Insurance
+83,Sports,Vacancy | Academy & Pathway Performance Analyst,"Castletroy, Limerick",DA,52.6638,-8.6267,Sports
+84,Insurance,Solvency II Reporting Actuary / Actuarial Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Insurance
+85,Energy,Customer Operations Business Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Energy
+86,Security Services,GSOC Intelligence & Operations Analyst - LinkedIn,"County Dublin, Dublin",DA,53.3498,-6.2603,Security Services
+87,Investment Management,Global Alternatives Solutions Business Analyst II,"County Dublin, Dublin",DA,53.3498,-6.2603,Investment Management
+88,Financial Services,Quantitative ETF Pricing Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Financial Services
+89,Technology,Strategic Operations Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+90,Pharmaceutical,Delivery Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Pharmaceutical
+91,Investment Management,Product Analyst,"Galway, Republic of Ireland",DA,53.2707,-9.0568,Investment Management
+92,Insurance,GenAI Product Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Insurance
+93,Technology,EMEA Finance Claims Analyst,"Cork, County Cork",DA,51.8985,-8.4756,Technology
+94,Technology,Principal Sales Operations Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+95,Technology,Sales Operations Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Technology
+96,Professional Services,Contracts Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Professional Services
+97,Other,Insider Threat Intelligence Analyst,"Limerick, County Limerick",DA,52.6638,-8.6267,Other
+98,Manufacturing,AP Process Analyst,"Moneygall, County Offaly",DA,53.3498,-6.2603,Manufacturing
+99,Insurance,Process Analyst,"County Dublin, Dublin",DA,53.3498,-6.2603,Insurance
+100,Logistics,Vendor Audit Analyst,"Dundalk, County Louth",DA,54.0043,-6.4058,Logistics
+101,Financial Data,CREDit Graduate Program Analyst - Structured Finance- Dublin,"County Dublin, Dublin",DA,53.3498,-6.2603,Financial Data
+102,Energy,Associate Sales Support & Administration Analyst - IRE F,"County Dublin, Dublin",DA,53.3498,-6.2603,Energy
+103,Technology,Weekend Shift- Forensic and Incident Response Operations (FIRE) Analyst,"Moneygall, County Offaly",DA,53.3498,-6.2603,Technology
+104,Healthcare,Snr Data Team Lead,"County Dublin, Dublin",DA,53.3498,-6.2603,Healthcare
+105,Healthcare,Senior Clinical Data Team Lead (Senior DTL) - FSP,"County Dublin, Dublin",DA,53.3498,-6.2603,Healthcare
+1,Recruitment,AWS Data Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Recruitment
+2,Recruitment,Quantitative Data Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Recruitment
+3,Investment,Data Engineer (Limerick/Hybrid),"Limerick, County Limerick",DE,52.6638,-8.6267,Investment
+4,Bank,"Data Engineering Lead, Dublin","Dublin, County Dublin",DE,53.3498,-6.2603,Bank
+5,Insurance,Data Products Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Insurance
+6,Professional Services,Data and BI Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Professional Services
+7,Recruitment,Senior Data Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Recruitment
+8,Recruitment,Senior Data Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Recruitment
+9,Recruitment,Senior Data Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Recruitment
+10,Recruitment,Senior Data Engineer - Databricks,"Dublin, County Dublin",DE,53.3498,-6.2603,Recruitment
+11,Recruitment,Senior Data Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Recruitment
+12,Retail,Senior Data Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Retail
+13,Recruitment,Senior Data Engineer,"Galway, Republic of Ireland",DE,53.2707,-9.0568,Recruitment
+14,Recruitment,IT Infrastructure & Data Centre Build Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Recruitment
+15,Recruitment,Lead Data Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Recruitment
+16,Recruitment,Lead Data Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Recruitment
+17,Healthcare,Senior Clinical Data Science Programmer,"Dublin, County Dublin",DE,53.3498,-6.2603,Healthcare
+18,Data Analytics,Data Engineer Contractor (Python Pandas),"County Dublin, Dublin",DE,53.3498,-6.2603,Data Analytics
+19,Data Analytics,Data Engineer Contractor (Python / kdb+),"County Dublin, Dublin",DE,53.3498,-6.2603,Data Analytics
+20,Data Analytics,Information Security Data Engineer,"County Dublin, Dublin",DE,53.3498,-6.2603,Data Analytics
+21,Technology,Backend & Data Engineer - Ratings & Reviews (HYBRID),"County Dublin, Dublin",DE,53.3498,-6.2603,Technology
+22,Technology,Data Engineer,"County Dublin, Dublin",DE,53.3498,-6.2603,Technology
+23,Technology,Proof of Concept Strategic Solution & Data Engineer,"County Dublin, Dublin",DE,53.3498,-6.2603,Technology
+24,Technology,Security Data Governance Engineer,County Dublin,DE,53.3498,-6.2603,Technology
+25,Bank,"Workplace Solutions - Data Analyst, Vice President","Dublin, County Dublin",DE,53.3498,-6.2603,Bank
+26,Investment Management,Senior Data Engineer,"Galway, Republic of Ireland",DE,53.2707,-9.0568,Investment Management
+27,Data Analytics,Lead Data Engineer,"County Dublin, Dublin",DE,53.3498,-6.2603,Data Analytics
+28,Technology,Cloud and AI - Data Solution Engineer - German Speaking,"County Dublin, Dublin",DE,53.3498,-6.2603,Technology
+29,Technology,"Digital Solution Engineer - Cloud & AI Data, German Market","County Dublin, Dublin",DE,53.3498,-6.2603,Technology
+30,Insurance,Scrum Master,"Dublin, County Dublin",DE,53.3498,-6.2603,Insurance
+31,Consulting,"AI & Data, Manager/Senior Manager, Hybrid","Dublin, County Dublin",DE,53.3498,-6.2603,Consulting
+32,Technology,Senior Security Data Governance Engineer,County Dublin,DE,53.3498,-6.2603,Technology
+33,Professional Services,Data Engineering Operations Manager,"County Dublin, Dublin",DE,53.3498,-6.2603,Professional Services
+34,Technology,"Director, Data Scientist","County Dublin, Dublin",DE,53.3498,-6.2603,Technology
+35,Manufacturing,"Staff Engineer, Applications, Site Reliability Engineering","Limerick, County Limerick",DE,52.6638,-8.6267,Manufacturing
+36,Technology,Senior Data Scientist,"County Dublin, Dublin",DE,53.3498,-6.2603,Technology
+37,Technology,Senior Backend Engineer,"Cork, County Cork",DE,51.8985,-8.4756,Technology
+38,Technology,"Manager, Data Science - Dublin","County Dublin, Dublin",DE,53.3498,-6.2603,Technology
+39,Engineering,Data Centre Cx Commissioning Engineer,"Dublin, County Dublin",DE,53.3498,-6.2603,Engineering
+40,Technology,Data Center Electrical Engineer,"County Dublin, Dublin",DE,53.3498,-6.2603,Technology
+1,Insurance,Data Scientist I,"Dublin, County Dublin",DS,53.3498,-6.2603,Insurance
+2,Recruitment,Data Scientist,"Cork, County Cork",DS,51.8985,-8.4756,Recruitment
+3,Insurance,Data Scientist,"Dublin, County Dublin",DS,53.3498,-6.2603,Insurance
+4,Insurance,Senior Data Scientist,"Dublin, County Dublin",DS,53.3498,-6.2603,Insurance
+5,Recruitment,Senior Data Scientist,"Galway, Republic of Ireland",DS,53.2707,-9.0568,Recruitment
+6,Recruitment,Senior Data Scientist,"Galway, Republic of Ireland",DS,53.2707,-9.0568,Recruitment
+7,Technology,Data Scientist,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+8,Technology,Data Scientist - LLMs & Generative AI,"Cork, County Cork",DS,51.8985,-8.4756,Technology
+9,Technology,Principal Data Scientist - Microsoft 365 Copilot,"Moneygall, County Offaly",DS,53.3498,-6.2603,Technology
+10,Technology,"Director, Data Scientist","County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+11,Technology,Data Scientist,"Waterford, County Waterford",DS,52.2593,-7.1101,Technology
+12,Technology,Snr Data Scientist - Fraud Automation Team,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+13,Technology,Data Scientist - Dublin,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+14,Technology,Data Scientist,"Galway, Republic of Ireland",DS,53.2707,-9.0568,Technology
+15,Technology,Data Scientist,"Galway, Republic of Ireland",DS,53.2707,-9.0568,Technology
+16,Technology,Data Scientist - CGS Event,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+17,Technology,Lead Data Scientist,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+18,Data Analytics,Lead Data Scientist - Model Risk Management,"County Dublin, Dublin",DS,53.3498,-6.2603,Data Analytics
+19,Insurance,Analytics Translator,"Dublin, County Dublin",DS,53.3498,-6.2603,Insurance
+20,Technology,Senior Data Scientist,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+21,Technology,Senior Data Scientist - Dublin,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+22,Healthcare,Machine Learning Engineer,"Galway, Republic of Ireland",DS,53.2707,-9.0568,Healthcare
+23,Insurance,Scrum Master,"Dublin, County Dublin",DS,53.3498,-6.2603,Insurance
+24,Technology,"Manager, Data Science - Dublin","County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+25,Technology,Lead AI Engineer,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+26,Technology,Applied Scientist - LLM,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+27,Data Analytics,Machine Learning Engineer - GenAI,"County Dublin, Dublin",DS,53.3498,-6.2603,Data Analytics
+28,Technology,"Product Manager, Payments AI Solutions","County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+29,Technology,"Product Manager, Payments AI Solutions","County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+30,Healthcare Research,Statistical Programmer,"Dublin, County Dublin",DS,53.3498,-6.2603,Healthcare Research
+31,Financial Services,Data Analyst - AML/KYC-Limerick,"Limerick, County Limerick",DS,52.6638,-8.6267,Financial Services
+32,Government,Healthcare Data Analyst,Republic of Ireland,DS,53.1424,-7.6921,Government
+33,Recruitment,"Senior/Principal Data Analyst - Hybrid, Financial Services, Galway","Galway, Republic of Ireland",DS,53.2707,-9.0568,Recruitment
+34,Bank,"Workplace Solutions - Data Analyst, Vice President","Dublin, County Dublin",DS,53.3498,-6.2603,Bank
+35,Recruitment,"Freight Invoice & Data Analyst (SAP, Excel, Power BI)","Dublin, County Dublin",DS,53.3498,-6.2603,Recruitment
+36,Healthcare,Data Analyst - Clarity,"Dublin, County Dublin",DS,53.3498,-6.2603,Healthcare
+37,Retail,Media Insight Analyst,"Dublin, County Dublin",DS,53.3498,-6.2603,Retail
+38,Recruitment,Data Analyst,"Tullamore, County Offaly",DS,53.274,-7.4896,Recruitment
+39,Recruitment,Data Analyst,"Galway, Republic of Ireland",DS,53.2707,-9.0568,Recruitment
+40,Insurance,Pricing Machine Learning Engineer,"Dublin, County Dublin",DS,53.3498,-6.2603,Insurance
+41,University,Clinical Bioinformatician,"Beaumont, County Dublin",DS,53.3498,-6.2603,University
+42,Insurance,Market Pricing Analyst,"Dublin, County Dublin",DS,53.3498,-6.2603,Insurance
+43,Financial Services,Information Protection Reporting and Analytics Analyst,"Kilkenny, County Kilkenny",DS,52.6541,-7.2448,Financial Services
+44,Recruitment,CRM Development Analyst,"Dublin, County Dublin",DS,53.3498,-6.2603,Recruitment
+45,Recruitment,Junior Data Analyst,"Galway, Republic of Ireland",DS,53.2707,-9.0568,Recruitment
+46,Recruitment,"Freight Invoice & Data Analyst (SAP, Excel, Power BI)","Dublin, County Dublin",DS,53.3498,-6.2603,Recruitment
+47,Recruitment,Data Analyst - Azure,"Dublin, County Dublin",DS,53.3498,-6.2603,Recruitment
+48,Recruitment,Data Analyst - Limerick,"Limerick, County Limerick",DS,52.6638,-8.6267,Recruitment
+49,Recruitment,BI Analyst,"Galway, Republic of Ireland",DS,53.2707,-9.0568,Recruitment
+50,Recruitment,Senior Administration Assistant | Dublin City Centre based | Hybrid model | 閳?0k,"Dublin, County Dublin",DS,53.3498,-6.2603,Recruitment
+51,Consulting,Data Analytics - Senior Consultant,"Dublin, County Dublin",DS,53.3498,-6.2603,Consulting
+52,Recruitment,Senior Data Analyst,"Limerick, County Limerick",DS,52.6638,-8.6267,Recruitment
+53,Retail,Senior Data Analyst,"Dublin, County Dublin",DS,53.3498,-6.2603,Retail
+54,Healthcare,Senior Data Analyst - Supply Chain Planning,Republic of Ireland,DS,53.1424,-7.6921,Healthcare
+55,Recruitment,Senior Data Analyst,"Galway, Republic of Ireland",DS,53.2707,-9.0568,Recruitment
+56,Insurance,Senior Data Analyst,"Carlow, County Carlow",DS,52.8407,-6.9269,Insurance
+57,Retail,Senior Commercial Data Analyst,"Dublin, County Dublin",DS,53.3498,-6.2603,Retail
+58,Recruitment,Senior Data Analyst,"Cork, County Cork",DS,51.8985,-8.4756,Recruitment
+59,Recruitment,Senior Machine Learning Engineer,"Dublin, County Dublin",DS,53.3498,-6.2603,Recruitment
+60,Bank,Data Analyst,"County Dublin, Dublin",DS,53.3498,-6.2603,Bank
+61,Bank,Data Analyst FTC - 6 Months,"County Dublin, Dublin",DS,53.3498,-6.2603,Bank
+62,Technology,AI Business Process Digital Solution Area Specialist,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+63,Sports,Vacancy | Academy & Pathway Performance Analyst,"Castletroy, Limerick",DS,52.6638,-8.6267,Sports
+64,Healthcare,Senior Biostatistician 閳?Oncology (FSP -Permanent Homebased),"County Dublin, Dublin",DS,53.3498,-6.2603,Healthcare
+65,Bank,Senior Data Analyst,"Tralee, County Kerry",DS,52.2713,-9.7016,Bank
+66,Technology,Senior Data Analyst,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+67,Healthcare,Snr Data Team Lead,"County Dublin, Dublin",DS,53.3498,-6.2603,Healthcare
+68,Healthcare,Senior Clinical Data Team Lead (Senior DTL) - FSP,"County Dublin, Dublin",DS,53.3498,-6.2603,Healthcare
+69,Healthcare,Senior Statistical Programmer (Remote - Permanent Homebased),"County Dublin, Dublin",DS,53.3498,-6.2603,Healthcare
+70,Technology,Machine Learning Engineer,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+71,Technology,RHTAS Senior Software Engineer - Model Signing and Attestations - (Ireland),"Cork, County Cork",DS,51.8985,-8.4756,Technology
+72,Technology,RHTAS Senior Software Engineer - Model Signing and Attestations - (Ireland),"Waterford, County Waterford",DS,52.2593,-7.1101,Technology
+73,Technology,RHTAS Senior Software Engineer - Model Signing and Attestations - (Ireland),"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+74,Technology,Senior Machine Learning Engineer II,"County Dublin, Dublin",DS,53.3498,-6.2603,Technology
+75,Technology,RHOAI Senior Software Engineer - Model Training/OpenShift AI,"Waterford, County Waterford",DS,52.2593,-7.1101,Technology
