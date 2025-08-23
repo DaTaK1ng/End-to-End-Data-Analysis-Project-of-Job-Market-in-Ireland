@@ -1,5 +1,5 @@
 # End-to-End-Data-Analysis-Project-of-Job-Market-in-Ireland
-An end-to-end data analysis project, from draft design and data crawling to the creation of a Tableau visualization dashboard, analyzing the recruitment and employment situation of data-related positions in Ireland for the 2025 graduation season (data from IrishJob.ie).
+This repository contains data analysis and cleaning scripts for job market research in Ireland. The focus is on Data Analyst, Data Engineer, and Data Scientist roles. All code is written in Python and is easy to understand.
 And you can find my dashboard in Tableau public at https://public.tableau.com/app/profile/tianyi.ren4423/viz/Dashboard_17557400021050/Dashboard?publish=yes
 
 # 1.Project Requirements
@@ -11,6 +11,11 @@ Coming to the next step, I make a plan of data collection, collect data include 
 # 3.Design of the Dashboard
 After the early preperation jobs, I designed a draft of the dashboard and can be found in this project menu too.
 
-# 4.Data collections
+# 4.Data collections and cleaning
+I use web scrapting to collect the raw data I need (code is in folder Code_pythonScrapting). And I cleaned it and reorganized it in the format that can be used in Tableau (code in folder Code_pythonDataCleaning). Raw data and clean data is storaged at the 'dataset' folder. I collected the address of each job and converted it to longitude and latitude coordinates. I also collected the company names and used dictionary substitution to replace them with various categories for statistical purposes. For salary and average salary, I used data from the National Bureau of Statistics. For skills and work experience, I went into each job description, extracted skill keywords, and counted their frequency. For experience, I used the keyword (experience) to index the text before and after, generally indexing English and Arabic numerals as the final result.
 
+# 5.Data visualization
+I use Tableau public to go with visualization and get the dashboard done.
 
+# 6.Data Analysis report
+You can read my report in the Report.pdf.
